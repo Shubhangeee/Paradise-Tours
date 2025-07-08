@@ -36,7 +36,7 @@ const Hero = () => {
               transition={{ duration: 0.8, delay: 0.4 }}
               className="text-base sm:text-lg md:text-xl text-gray-300 mb-6 md:mb-8 leading-relaxed"
             >
-              Explore Uttar Pradesh and beyond with premium cab services and unforgettable tour packages. Experience comfort, safety, and reliability with Paradise Tours.
+              Explore India with premium cab services and unforgettable tour packages. Experience comfort, safety, and reliability with Paradise Tours.
             </motion.p>
 
             <motion.div
